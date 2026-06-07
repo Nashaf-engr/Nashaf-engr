@@ -82,12 +82,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/Nashaf-engr">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nashaf-engr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/Nashaf-engr">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashaf-engr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashaf-engr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Development-70a5fd?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JS%20%7C%20C++-bf91f3?style=for-the-badge&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Repos-Public%20%26%20Growing-38bdae?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collabs-70a5fd?style=for-the-badge&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/University-Peradeniya-bf91f3?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Degree-Computer%20Engineering-38bdae?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
@@ -111,11 +113,20 @@
 ---
 
 <!-- TROPHIES -->
-<h2 align="center">🏆 Trophies</h2>
+<h2 align="center">🏆 Goals & Milestones</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nashaf-engr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</p>
+<div align="center">
+
+| 🎯 Goal | 📌 Status |
+|--------|----------|
+| Launch Personal Portfolio | 🟡 In Progress |
+| Complete React Course | 🟡 In Progress |
+| Contribute to Open Source | 🔵 Upcoming |
+| Land First Internship | 🔵 Upcoming |
+| Master UI/UX with Figma | 🔵 Upcoming |
+| Build 10 Public Projects | 🔵 Upcoming |
+
+</div>
 
 ---
 
