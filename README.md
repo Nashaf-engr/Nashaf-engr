@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nashafeng32&style=flat-square&color=70a5fd&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nashaf-engr&style=flat-square&color=70a5fd&label=Profile+Views" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 class NaseefSharaf:
     def __init__(self):
         self.name        = "MFA Naseef Sharaf"
-        self.username    = "nashafeng32"
-        self.location    = "Kandy, Sri Lanka 🇱🇰"
+        self.username    = "Nashaf-engr"
+        self.location    = "Batticaloa, Sri Lanka"
         self.degree      = "BSc Computer Engineering @ University of Peradeniya"
         self.email       = "nashafeng32@gmail.com"
 
@@ -90,11 +90,11 @@ print(me.motto())
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/nashafeng32">
+  <a href="https://github.com/Nashaf-engr">
     <img height="175" src="https://github-readme-stats.vercel.app/api?username=nashafeng32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/nashafeng32">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashafeng32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Nashaf-engr">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashaf-engr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -104,7 +104,7 @@ print(me.motto())
 <h2 align="center">🔥 Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nashafeng32&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Nashaf-engr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </p>
 
 ---
@@ -113,7 +113,7 @@ print(me.motto())
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nashafeng32&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nashaf-engr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@ print(me.motto())
 <h2 align="center">🏆 Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nashafeng32&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nashaf-engr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </p>
 
 ---
@@ -169,7 +169,7 @@ print(me.motto())
 
 | Degree | Institution | Status |
 |--------|------------|--------|
-| BSc in Computer Engineering | University of Peradeniya 🇱🇰 | Undergraduate (In Progress) |
+| BSc Computer Engineering | University of Peradeniya | Undergraduate (In Progress) |
 
 </div>
 
@@ -194,10 +194,10 @@ print(me.motto())
   <a href="mailto:nashafeng32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/nashafeng32">
+  <a href="[https://www.linkedin.com/in/nashafeng/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/nashafeng32">
+  <a href="https://github.com/Nashaf-engr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
