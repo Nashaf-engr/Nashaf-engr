@@ -13,42 +13,34 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class NaseefSharaf:
-    def __init__(self):
-        self.name        = "MFA Naseef Sharaf"
-        self.username    = "Nashaf-engr"
-        self.location    = "Batticaloa, Sri Lanka"
-        self.degree      = "BSc Computer Engineering @ University of Peradeniya"
-        self.email       = "nashafeng32@gmail.com"
-
-        self.stack = [
-            "Python", "C++", "JavaScript",
-            "HTML", "CSS", "React"
-        ]
-
-        self.design_tools = [
-            "Adobe Photoshop", "Illustrator", "Canva"
-        ]
-
-        self.currently_learning = [
-            "Advanced React & Component Architecture",
-            "UI/UX Interaction Design Principles",
-            "Arduino & Embedded Systems"
-        ]
-
-        self.fun_fact = "I debug with vibes and fix it with design 🎨"
-
-    def motto(self):
-        return "Engineer the logic. Design the feeling."
-
-me = NaseefSharaf()
-print(me.motto())
-```
-
-<br clear="right"/>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="55%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        🎓 &nbsp;<strong>BSc Computer Engineering</strong> @ University of Peradeniya<br/>
+        📍 &nbsp;Batticaloa, Sri Lanka 🇱🇰<br/>
+        📧 &nbsp;nashafeng32@gmail.com<br/>
+        🎨 &nbsp;Blending <strong>engineering</strong> with <strong>design</strong><br/>
+        🌱 &nbsp;Currently learning <strong>React</strong> & <strong>UI/UX</strong><br/>
+        ⚡ &nbsp;Fun fact: <em>I debug with vibes and fix it with design</em><br/>
+        💬 &nbsp;Open to <strong>internships</strong> & <strong>collabs</strong>
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Front--End%20Dev-70a5fd?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Passion-UI%2FUX%20Design-bf91f3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-38bdae?style=flat-square"/>
+      </p>
+      <blockquote>
+        <em>"Engineer the logic. Design the feeling."</em>
+      </blockquote>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" style="border-radius:12px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +83,7 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Nashaf-engr">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=nashafeng32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nashaf-engr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/Nashaf-engr">
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashaf-engr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
