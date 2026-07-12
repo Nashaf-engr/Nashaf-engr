@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="MFA Naseef Sharaf GitHub Profile Banner" src="./light.svg" width="100%">
+</picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MFA%20Naseef%20Sharaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20Student%20%7C%20Front-End%20Dev%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" />
 </p>
