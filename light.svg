@@ -147,11 +147,11 @@
         </g>
         <text y="72" fill="#0F172A" font-size="30" font-weight="800">I'm MFA Naseef Sharaf</text>
         <g transform="translate(0 96)">
-          <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeFrontend)">Frontend Engineer</text>
-          <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeFull)">UI / UX Designer</text>
+          <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeFrontend)">Computer Engineer</text>
+          <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeFull)">Graphic Designer</text>
           <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeOpen)">Creative Coder</text>
           <text fill="url(#accent)" font-size="24" font-weight="800" clip-path="url(#typeUI)">AI Enthusiast</text>
-          <rect x="292" y="-23" width="11" height="29" rx="2" fill="#06B6D4"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+          <rect x="225" y="-15" width="5" height="20" rx="2" fill="#06B6D4"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
         </g>
         <g font-size="13">
           <g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;.25;1" begin=".6s" dur="2.6s" fill="freeze"/><text x="0" y="146" fill="#475569">location</text><text x="142" y="146" fill="#0F172A">Kankeyanodai, Sri Lanka</text></g>
