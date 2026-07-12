@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Naseef+%F0%9F%91%8B;Computer+Engineering+%40+UoP;Front-End+Dev+%7C+UI%2FUX+Designer;Building+Clean+%26+Modern+Experiences" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nashaf-engr&style=flat-square&color=70a5fd&label=Profile+Views" />
-</p>
+</p> -->
 
 ---
 
