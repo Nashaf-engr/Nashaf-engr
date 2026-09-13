@@ -2,10 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
+
+# ✅ This line fixes the 403 error
+permissions:
+  contents: write
 
 jobs:
   generate:
